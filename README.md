@@ -10,8 +10,6 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** food delivery app
 * **Authentication & Authorization** – JWT-based login/signup for customers and admins
 * **Restaurant & Menu Management** – Admins can add, edit, and delete restaurants and dishes
 * **Cart & Checkout** – Add food items to cart and place orders securely
-* **Order Tracking** – Real-time order status updates with Socket.io
-* **Payment Integration** – Secure payment with Stripe/Razorpay
 * **Responsive UI** – Optimized for both mobile and desktop devices
 
 ---
